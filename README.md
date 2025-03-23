@@ -19,7 +19,14 @@ Model terbaik mampu mengklasifikasikan sentimen dengan cukup baik. Contoh infere
 🔍 **Prediksi:** **Negatif** 😡  
 
 ## 📂 **Struktur Proyek**  
-📁 Projek analisis sentimen │── 📂 Dataset │ ├── Dirty_vote.csv │ ├── Label_sentiment.csv │── 📂 Model │ ├── model_cnn_lstm.h5 │ ├── model_gru.h5 │ ├── model_lstm.h5 │ ├── tfidf_vectorizer.pkl │ ├── tokenizer.pkl │── Inference.ipynb │── Scraping.ipynb │── Submission_Analisis_Sentimen_Dirty_vote.ipynb │── requirements.txt │── README.md
+📁 Projek analisis sentimen
+│── 📂 Dataset │ ├── Dirty_vote.csv │ ├── Label_sentiment.csv 
+│── 📂 Model │ ├── model_cnn_lstm.h5 │ ├── model_gru.h5 │ ├── model_lstm.h5 │ ├── tfidf_vectorizer.pkl │ ├── tokenizer.pkl │
+|── Inference.ipynb 
+│── Scraping.ipynb 
+│── Submission_Analisis_Sentimen_Dirty_vote.ipynb
+│── requirements.txt
+│── README.md
 
 
 ## 📥 **Download & Gunakan Model**  
