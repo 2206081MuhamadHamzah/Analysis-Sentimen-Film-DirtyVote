@@ -36,12 +36,12 @@ sh
 pip install -r requirements.txt
 3️⃣ Jalankan model inference:
 Buka Inference.ipynb dan jalankan untuk menguji model pada teks baru.
-
-📢 Kontak & Feedback
-Jika ada pertanyaan atau ingin berkolaborasi, silakan hubungi saya di LinkedIn atau GitHub. 🚀
-
-
 ```sh
 git add README.md
 git commit -m "Menambahkan file README.md"
 git push origin main
+
+## 📢 Kontak & Feedback
+Jika ada pertanyaan atau ingin berkolaborasi, silakan hubungi saya di LinkedIn atau GitHub. 🚀
+
+
