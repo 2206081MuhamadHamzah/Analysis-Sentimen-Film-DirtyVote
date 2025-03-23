@@ -1,4 +1,4 @@
-# **Analisis Sentimen Film Dirty Vote **  
+# **Analisis Sentimen Film Dirty Vote**  
 
 ## 📌 **Deskripsi Proyek**  
 Film *Dirty Vote* memicu banyak diskusi publik, dengan berbagai opini yang beredar di media sosial. Proyek ini bertujuan untuk menganalisis sentimen dari komentar-komentar terkait film ini menggunakan teknik **Natural Language Processing (NLP)**.  
@@ -57,7 +57,6 @@ git commit -m "Menambahkan file README.md"
 git push origin main
 sh
 
-## 📢 Kontak & Feedback
-Jika ada pertanyaan atau ingin berkolaborasi, silakan hubungi saya di LinkedIn atau GitHub. 🚀
+
 
 
