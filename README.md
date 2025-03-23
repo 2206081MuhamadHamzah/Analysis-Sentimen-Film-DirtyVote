@@ -55,7 +55,7 @@ Buka Inference.ipynb dan jalankan untuk menguji model pada teks baru.
 git add README.md
 git commit -m "Menambahkan file README.md"
 git push origin main
-'''sh
+sh
 
 ## 📢 Kontak & Feedback
 Jika ada pertanyaan atau ingin berkolaborasi, silakan hubungi saya di LinkedIn atau GitHub. 🚀
