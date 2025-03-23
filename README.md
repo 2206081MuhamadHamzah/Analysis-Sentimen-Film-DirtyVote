@@ -43,19 +43,13 @@ Jika tertarik dengan model yang saya buat, bisa mengunduhnya di GitHub ini.
 
 ## 📝 **Cara Menjalankan**  
 ### 1️⃣ Clone repo ini:  
-```sh
 git clone https://github.com/2206081MuhamadHamzah/Analysis-Sentimen-Film-DirtyVote.git
 cd Analysis-Sentimen-Film-DirtyVote
 2️⃣ Install dependensi:
-sh
 pip install -r requirements.txt
 3️⃣ Jalankan model inference:
 Buka Inference.ipynb dan jalankan untuk menguji model pada teks baru.
-```sh
-git add README.md
-git commit -m "Menambahkan file README.md"
-git push origin main
-sh
+
 
 
 
