@@ -42,7 +42,8 @@ Jika tertarik dengan model yang saya buat, bisa mengunduhnya di GitHub ini.
 📌 **GitHub Repository:** [Analysis-Sentimen-Film-DirtyVote](https://github.com/2206081MuhamadHamzah/Analysis-Sentimen-Film-DirtyVote)  
 
 ## 📝 **Cara Menjalankan**  
-### 1️⃣ Clone repo ini:  
+### 1️⃣ Clone repo ini: 
+```sh
 git clone https://github.com/2206081MuhamadHamzah/Analysis-Sentimen-Film-DirtyVote.git
 cd Analysis-Sentimen-Film-DirtyVote
 2️⃣ Install dependensi:
